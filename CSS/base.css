@@ -1,0 +1,36 @@
+body
+{
+  background-color: #ffdbc5;
+}
+
+h1
+{
+  color: #423144;
+}
+
+h2, h3
+{
+  color: #cf1b1b;
+}
+
+h4
+{
+  color: #900d0d;
+}
+hr
+{
+  border: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 4px;
+  height: 2px;
+  width: 45%;
+}
+
+.BigDiv
+{
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 6px;
+  width: 90%;
+}
