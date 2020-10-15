@@ -1,3 +1,5 @@
+/***************************Tag Selectors***************************/
+
 body
 {
   background-color: #ffdbc5;
@@ -27,6 +29,11 @@ hr
   width: 45%;
 }
 
+img
+{
+  border-radius: 100%;
+}
+/***************************Class Selectors***************************/
 .BigDiv
 {
   border-top-style: dotted;
@@ -34,3 +41,4 @@ hr
   border-width: 6px;
   width: 90%;
 }
+/***************************ID Selectors***************************/
