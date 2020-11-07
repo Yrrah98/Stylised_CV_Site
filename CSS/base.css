@@ -36,7 +36,7 @@ h3
 {
   position: relative;
   padding-top: 100px;
-  background-color: #393b44;
+  background-color: black;
   padding-bottom: 300px;
   padding-left: 10rem;
   text-align: left;
@@ -56,13 +56,25 @@ h3
   min-height: 10%;
 }
 
+.Skill-Section-Image
+{
+  margin:auto;
+}
+
 .Skill-Row
 {
-
   display: block;
 
   width: 50%;
   height: 100%;
+}
+
+.ImgLogo
+{
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  vertical-align: middle;
 }
 .Skill-Row img
 {
